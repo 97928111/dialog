@@ -2,6 +2,11 @@
 	[
 		{
 			"speaker" : "homer",
+			"dialog" : "Welcome to my world, my dear friend.",
+			"newSpeaker" : "true"
+		},
+		{
+			"speaker" : "homer",
 			"dialog" : "Tell me, O muse, of that ingenious hero who travelled far and wide after he had sacked the famous town of Troy.",
 			"newSpeaker" : "true"
 		},

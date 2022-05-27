@@ -1,0 +1,13 @@
+[
+	[
+		{
+			"speaker" : "witch",
+			"dialog" : "When shall we three meet again",
+			"newSpeaker" : "true"
+		},
+		{
+			"speaker" : "witch",
+			"dialog" : "In thunder, lightning, or in rain?"
+		}
+	]
+]
